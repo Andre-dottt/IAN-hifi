@@ -4,11 +4,11 @@
       "id": "ian-hifi",
       "name": "IAN HI-FI",
       "author": "Ian",
-      "version": "1.0.0",
-      "description": "Multi-source music search starter for TIDAL and Apple Music catalog metadata.",
+      "version": "1.1.0",
+      "description": "Multi-source music search test build. TIDAL depends on a third-party server; Apple Music is catalog search only.",
       "labels": [
         "TIDAL",
-        "APPLE MUSIC",
+        "APPLE MUSIC CATALOG",
         "LOSSLESS",
         "HI-RES"
       ],
