@@ -5,10 +5,9 @@
       "name": "IAN HI-FI",
       "author": "Ian",
       "version": "1.1.0",
-      "description": "Multi-source music search test build. TIDAL depends on a third-party server; Apple Music is catalog search only.",
+      "description": "High-quality music search module for TIDAL.",
       "labels": [
         "TIDAL",
-        "APPLE MUSIC CATALOG",
         "LOSSLESS",
         "HI-RES"
       ],
