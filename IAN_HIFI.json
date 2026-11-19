@@ -1,0 +1,18 @@
+{
+  "category:music": [
+    {
+      "id": "ian-hifi",
+      "name": "IAN HI-FI",
+      "author": "Ian",
+      "version": "1.0.0",
+      "description": "Multi-source music search starter for TIDAL and Apple Music catalog metadata.",
+      "labels": [
+        "TIDAL",
+        "APPLE MUSIC",
+        "LOSSLESS",
+        "HI-RES"
+      ],
+      "download": "REPLACE_WITH_RAW_HTTPS_URL"
+    }
+  ]
+}
